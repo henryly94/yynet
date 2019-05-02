@@ -2,6 +2,8 @@
 .vscode
 .vscode/*
 
+# CMake
+build/*
 # Prerequisites
 *.d
 
